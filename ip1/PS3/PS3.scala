@@ -16,7 +16,7 @@ def search(a: Array[Int], x: Int) : Int = {
   // I && i = j, so a[0..i) < x <= a[i..N)
 i }
 
-/*** ???????? ******* [Q2] */
+/*** ?? [Q2] */
 
 //Find a s.t. a^2 ≤ y < (a+1)^2
 //Pre: y >= 0
@@ -168,7 +168,6 @@ def iSort(a: Array[Int]) : Array[Int] = {
 // order of comparisons growth: quadratic //sum of comparisons: n(n-1)/2
 // order of time growth: quadratic
 
-/* [Q6] */
 
 
 
