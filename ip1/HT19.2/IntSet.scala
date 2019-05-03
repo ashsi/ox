@@ -7,12 +7,7 @@ avoid repetitions?
 Avoid repitions, there are no reptitions in a set
 • Do you store the elements of the set in increasing order?
 Yes, contains will be called upon frequently and will be logn rather than n if elements are ordered.
-• Do you include anything else in your state, for efficiency?
 
-
-
-abs:
-DTI:
 */
 
 
