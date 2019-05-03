@@ -1,4 +1,5 @@
-//Brack.scala DAA Practical
+//Brack.scala DAA Practical: A String Bracketing Problem
+
 /** Import is for readLine so that we can write input directly to the program */
 import scala.io.StdIn
 
