@@ -1,7 +1,7 @@
 # ox
 Oxford Uni Programming Work
 
-In this repository I have uploaded some of my programming from my university modules.
+In this repository I have uploaded some of my programming from my university modules, though most of my work for university was paper-based and/or mathematical as opposed to programming.
 This includes weekly problem sheets as well as assessed practical coursework.
 These solutions serve to represent my learning and improvement over time instead of provide model answers (though all practical code has been passed by the Department).
 The tutorial questions and practical instructions are on the respective Oxford website pages for users with permission to access them.
