@@ -6,7 +6,7 @@ This includes weekly problem sheets as well as assessed practical coursework.
 These solutions serve to represent my learning and improvement over time instead of provide model answers (though all practical code has been passed by the Department).
 The tutorial questions and practical instructions are on the respective Oxford website pages for users with permission to access them.
 
-My priorities are writing clean code that clearly resembles the underlying maths and writing code that is enjoyable to read.
+My priorities are writing clean code that clearly resembles the underlying maths and writing code that is enjoyable to read by ordering and structuring my code in an intuitive way.
 
 Contents:
 
