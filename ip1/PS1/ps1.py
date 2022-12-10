@@ -1,4 +1,4 @@
-# Readability note: Comments here were written with a plug-in in mind. 
+# Readability note: Comments here were written with a plug-in in mind. The plug-in colour-codes comments, so they're not all a dull, amorphous grey. 
 # I used the Comments Highlighter plug-in for PyCharm. 
 # "# !" colours comments red. "# *" colours comments green.
 
