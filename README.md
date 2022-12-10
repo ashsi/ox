@@ -1,7 +1,11 @@
 # ox
 Oxford Uni Programming Work
 
-In this repository I have uploaded some of my programming from my university modules, though most of my work for university was paper-based and/or mathematical as opposed to programming. *Update* I am currently writing solutions to the ip module question for Python, pointing out differences between Python and Scala, and explaining my interpretation of the problem sheet questions.
+*Update* I am currently writing solutions to the ip (imperative programming) problem sheet questions for Python, explaining differences between Python and Scala, and explaining my interpretation of the problem sheet questions.
+
+
+In this repository I have uploaded some of my programming from my university modules, though most of my work for university was paper-based and/or mathematical as opposed to programming. 
+
 In this repo I have included programming tasks in weekly problem sheets as well as assessed practical coursework.
 These solutions serve to represent my learning and improvement over time instead of provide model answers (though all practical code has been passed by the Department).
 The tutorial questions and practical instructions are on the respective Oxford website pages for users with permission to access them.
