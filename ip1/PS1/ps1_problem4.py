@@ -108,7 +108,7 @@ class MilkBill:
         print(f"Bill {self.id} total cost: £{self.total_price:.2f}.")
 
 
-# Example script input of MilkBill object creation.
+# Example script of MilkBill object creation.
 bill0 = MilkBill()
 print("Milk bill created.\n")
 bill0.print()
