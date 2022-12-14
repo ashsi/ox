@@ -104,8 +104,8 @@ class MilkBill:
         self.total_price = round(self.total_milks * self.milk_price, 2)
 
     def print(self):
-        print(f"Bill {self.id} total number of milk bottles: {self.total_milks}.")
-        print(f"Bill {self.id} total cost: £{self.total_price:.2f}.")
+        print(f"Bill ID {self.id} - Total # of Milk Bottles: {self.total_milks}.")
+        print(f"Bill ID {self.id} - Total Cost: £{self.total_price:.2f}.")
 
 
 # Example script of MilkBill object creation.
@@ -119,5 +119,5 @@ bill0.print()
 # 3 1 9 22 30 100
 # Milk bill created.
 
-# Bill 0 total number of milk bottles: 165.
-# Bill 0 total cost: £330.00.
+# Bill ID 0 - Total # of Milk Bottles: 165.
+# Bill ID 0 - Total Cost: £330.00.
