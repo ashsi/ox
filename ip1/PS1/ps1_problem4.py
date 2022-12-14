@@ -97,7 +97,6 @@ class MilkBill:
 
     def __init__(self):
         self.id = next(MilkBill.id_iter)
-        # User inputs the number of milks per day.
         milks_per_day = [int(milks) for milks in input("Enter the # of milk bottles per day, separated by a space.\n")
                          .split()]
         self.total_milks = find_sum(milks_per_day)
@@ -108,7 +107,7 @@ class MilkBill:
         print(f"Bill ID {self.id} - Total Cost: £{self.total_price:.2f}.")
 
 
-# Example script of MilkBill object creation.
+# Example of MilkBill object creation.
 bill0 = MilkBill()
 print("Milk bill created.\n")
 bill0.print()
