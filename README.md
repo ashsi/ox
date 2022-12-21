@@ -1,7 +1,7 @@
 # ox
 Oxford Uni Programming Work
 
-*Update* I am currently writing Python solutions to the ip (imperative programming) problem sheet questions originally for Scala, delving into differences between Python and Scala, and explaining my interpretation of the problem sheet questions and issues relating to them. I am doing this for an extra chellenge beyond my current coding bootcamp. The questions on the sheet are included as comments in the files and problem sheet questions with no code comoponent have been excluded.
+*Update* I am currently writing Python solutions to the ip (imperative programming) problem sheet questions originally for Scala, delving into differences between Python and Scala, and explaining my interpretation of the problem sheet questions and issues relating to them. I am doing this for an extra chellenge beyond my current coding bootcamp. The questions on the sheet are included as comments in the files and problem sheet questions with no code component have been excluded.
 
 
 In this repository I have uploaded some of my programming from my university modules, though most of my work for university was paper-based and/or mathematical as opposed to programming. 
